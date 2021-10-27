@@ -1,0 +1,13 @@
+C:\Projetos\ams\1Ano\Semestre2\ExGrupo\bin\Debug\netcoreapp3.1\ExGrupo.exe
+C:\Projetos\ams\1Ano\Semestre2\ExGrupo\bin\Debug\netcoreapp3.1\ExGrupo.deps.json
+C:\Projetos\ams\1Ano\Semestre2\ExGrupo\bin\Debug\netcoreapp3.1\ExGrupo.runtimeconfig.json
+C:\Projetos\ams\1Ano\Semestre2\ExGrupo\bin\Debug\netcoreapp3.1\ExGrupo.runtimeconfig.dev.json
+C:\Projetos\ams\1Ano\Semestre2\ExGrupo\bin\Debug\netcoreapp3.1\ExGrupo.dll
+C:\Projetos\ams\1Ano\Semestre2\ExGrupo\bin\Debug\netcoreapp3.1\ExGrupo.pdb
+C:\Projetos\ams\1Ano\Semestre2\ExGrupo\obj\Debug\netcoreapp3.1\ExGrupo.csprojAssemblyReference.cache
+C:\Projetos\ams\1Ano\Semestre2\ExGrupo\obj\Debug\netcoreapp3.1\ExGrupo.AssemblyInfoInputs.cache
+C:\Projetos\ams\1Ano\Semestre2\ExGrupo\obj\Debug\netcoreapp3.1\ExGrupo.AssemblyInfo.cs
+C:\Projetos\ams\1Ano\Semestre2\ExGrupo\obj\Debug\netcoreapp3.1\ExGrupo.csproj.CoreCompileInputs.cache
+C:\Projetos\ams\1Ano\Semestre2\ExGrupo\obj\Debug\netcoreapp3.1\ExGrupo.dll
+C:\Projetos\ams\1Ano\Semestre2\ExGrupo\obj\Debug\netcoreapp3.1\ExGrupo.pdb
+C:\Projetos\ams\1Ano\Semestre2\ExGrupo\obj\Debug\netcoreapp3.1\ExGrupo.genruntimeconfig.cache
